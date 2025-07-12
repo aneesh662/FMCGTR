@@ -1,10 +1,7 @@
 # 📊 FMCG Dashboard Analysis
 
-
-<img src="https://github.com/aneesh662/FMCGTR/blob/f1456d176c80826d6a24405d37e3a18e48e4c1ca/FMCGDASHBOARD.png?raw=true" height="400">
-
-
 ## 🔗 Project Link
+<img src="https://github.com/aneesh662/FMCGTR/blob/f1456d176c80826d6a24405d37e3a18e48e4c1ca/FMCGDASHBOARD.png?raw=true" height="400">
 
 👉 [View the interactive Power BI Dashboard-Acai Store](https://app.powerbi.com/view?r=eyJrIjoiOTZiYjkxYTYtZjdkOS00MGRkLTgwNDgtZDUxMzQ1YzY1MDdkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=657cfe1ec229010ce026)
 
