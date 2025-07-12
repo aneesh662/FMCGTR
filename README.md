@@ -1,6 +1,7 @@
 # 📊 FMCG Dashboard Analysis
 
-![FMCG Dashboard](https://github.com/aneesh662/FMCGTR/blob/f1456d176c80826d6a24405d37e3a18e48e4c1ca/FMCGDASHBOARD.png?raw=true)
+
+<img src="https://github.com/aneesh662/FMCGTR/blob/f1456d176c80826d6a24405d37e3a18e48e4c1ca/FMCGDASHBOARD.png?raw=true" height="400">
 
 
 *(Replace `./path-to-your-image.png` with the actual path or a URL if hosting online)*
