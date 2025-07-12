@@ -66,16 +66,6 @@ This project showcases a **comprehensive Power BI dashboard** designed for an FM
 
 ---
 
-## 📌 Usage
-- Clone this repository and open the `.pbix` file in Power BI Desktop.
-- Connect to your own dataset or review the included demo data for exploration.
-- Filter using slicers to see insights by customer, supplier, month, or category.
-
----
-
-## 📫 Contact
-If you’d like to learn more about this project or have any collaboration ideas, feel free to reach out on [LinkedIn](#) or email at [your-email@example.com](mailto:your-email@example.com).
-
 ---
 
 ⭐ **If you found this interesting, please give it a star!**
