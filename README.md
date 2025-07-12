@@ -66,6 +66,4 @@ This project showcases a **comprehensive Power BI dashboard** designed for an FM
 
 ---
 
----
 
-⭐ **If you found this interesting, please give it a star!**
